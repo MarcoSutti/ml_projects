@@ -1,7 +1,7 @@
 # Machine Learning Projects
-This page collects some Machine Learning (ML) projects on which I have been working recently. These projects originated from the Data Science in Python course that I have been following on DataQuest. Information about the data used and project descriptions are contained in the corresponding Jupyter Notebooks.
+This page collects some Machine Learning (ML) projects I have been recently working on. These projects originated from the *Data Science in Python* course that I have been following on *DataQuest*. Information about the data used and project descriptions are contained in the corresponding Jupyter Notebooks.
 
-This repository is work in progress and the projects themselves might undergo some changes over time. For the moment, there are three projects in the repository:
+This repository is **work in progress** and the projects themselves might undergo some changes over time. For the moment, there are three projects in the repository:
 
 ## 1. Predicting car prices
 In this project, we use the **k-nearest neighbors algorithm** to predict a car's market price using its attributes. We explore some basic *data cleaning* techniques, *univariate* and *multivariate model*, and *hyperparameter tuning*.
