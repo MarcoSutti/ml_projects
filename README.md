@@ -1,5 +1,5 @@
 # Machine Learning Projects
-This page collects some Machine Learning (ML) projects I have been recently working on. These projects originated from the *Data Science in Python* course that I have been following on *DataQuest*. Information about the data used and project descriptions are contained in the corresponding Jupyter Notebooks.
+This page collects some Machine Learning (ML) projects I have been recently working on. These projects originated from the *Data Science in Python* course that I have been following on *Dataquest*. Information about the data used and project descriptions are contained in the corresponding Jupyter Notebooks.
 
 This repository is **work in progress** and the projects themselves might undergo some changes over time. For the moment, there are three projects in the repository:
 
@@ -11,3 +11,6 @@ In this project, we use **linear regression** to predict house sale prices in Am
 
 ## 3. Building a handwritten digits classifier
 In this project, we use a **deep, feedforward neural network** to classify handwritten digits. We compare the results obtained with a k-nearest neighbors algorithm. We explore how the number of neurons and the number of hidden layers impact on the accuracy scores, and use some validation techniques to quantitatively evaluate *overfitting*.
+
+## 4. Predicting bike rentals
+In this project, we try to predict the total number of bikes people rented in a given hour. To accomplish this, we create a few different machine learning models (**linear regression**, **decision trees**, and **random forests**), and evaluate their performance.
