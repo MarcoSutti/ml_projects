@@ -1,3 +1,15 @@
+"""
+In this project, we work with data from the S&P500 Index.
+Indexes aggregate the prices of multiple stocks together, and
+allow us to understand how the market performs as a whole.
+For example, the Dow Jones industrial average aggregates
+the stock prices of 30 large American companies together. 
+Here, we use historical data on the price of the S&P500 Index
+to make predictions about future prices. We train the model with
+data from 1950-2012 and make predictions from 2013-2015 using
+a linear regression model.
+"""
+
 import pandas as pd
 # import numpy as np
 import matplotlib.pyplot as plt
