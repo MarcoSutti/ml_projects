@@ -16,4 +16,4 @@ We use a **deep, feedforward neural network** to classify handwritten digits. We
 We try to predict the total number of bikes people rented in a given hour. To accomplish this, we create a few different machine learning models (**linear regression**, **decision trees**, and **random forests**), and evaluate their performance.
 
 ## 5. Predicting the stock market
-We use pandas' time series tools to generate new indicators and then we train a **linear regression** model to make predictions about the future prices of the S&P500 Index.
+We use pandas *time series tools* to generate new indicators in our dataframe, and then we train a **linear regression** model to make predictions about the future prices of the S&P500 Index.
