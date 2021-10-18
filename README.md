@@ -17,3 +17,6 @@ We try to predict the total number of bikes people rented in a given hour. To ac
 
 ## 5. Predicting the stock market
 We use pandas *time series tools* to generate new indicators in our dataframe, and then we train a **linear regression** model to make predictions about the future prices of the S&P500 Index.
+
+## 6. Naive Bayes algorithm
+We use the **naive Bayes algorithm** to build a spam filter for SMS messages.
