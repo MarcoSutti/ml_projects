@@ -20,3 +20,6 @@ We use pandas *time series tools* to generate new indicators in our dataframe, a
 
 ## 6. Naive Bayes algorithm
 We use the **naive Bayes algorithm** to build a spam filter for SMS messages.
+
+## 7. NBA Players
+We use the **K-means clustering** algorithm to explore patterns in a dataset of stats about NBA players.
