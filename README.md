@@ -1,5 +1,5 @@
 # Machine Learning Projects
-This page collects some Machine Learning (ML) projects I have been recently working on. These projects originated from the *Data Science in Python* course that I have been following on *Dataquest*. Information about the data used and project descriptions are contained in the corresponding Jupyter Notebooks. Please feel free to get in touch with me if you notice any errors, any suggestion is welcome!
+This page collects some Machine Learning (ML) projects I have been recently working on. These projects originated from the *Data Science in Python* course that I have been following on *Dataquest*. Information about the data used and project descriptions are contained in the corresponding Jupyter Notebooks. Please feel free to get in touch with me if you notice any errors. Any suggestion is welcome!
 
 This repository is **work in progress** and the projects themselves might undergo some changes over time. For the moment, there are **seven projects** in the repository:
 
