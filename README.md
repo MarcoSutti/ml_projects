@@ -1,7 +1,7 @@
 # Machine Learning Projects
-This page collects some Machine Learning (ML) projects I have been recently working on. These projects originated from the *Data Science in Python* course that I have been following on *Dataquest*. Information about the data used and project descriptions are contained in the corresponding Jupyter Notebooks.
+This page collects some Machine Learning (ML) projects I have been recently working on. These projects originated from the *Data Science in Python* course that I have been following on *Dataquest*. Information about the data used and project descriptions are contained in the corresponding Jupyter Notebooks. Please feel free to get in touch with me if you notice any errors, any suggestion is welcome!
 
-This repository is **work in progress** and the projects themselves might undergo some changes over time. For the moment, there are **five projects** in the repository:
+This repository is **work in progress** and the projects themselves might undergo some changes over time. For the moment, there are **seven projects** in the repository:
 
 ## 1. Predicting car prices
 We use the **k-nearest neighbors algorithm** to predict a car's market price using its attributes. We explore some basic *data cleaning* techniques, *univariate* and *multivariate model*, and *hyperparameter tuning*.
@@ -18,8 +18,8 @@ We try to predict the total number of bikes people rented in a given hour. To ac
 ## 5. Predicting the stock market
 We use pandas *time series tools* to generate new indicators in our dataframe, and then we train a **linear regression** model to make predictions about the future prices of the S&P500 Index.
 
-## 6. Naive Bayes algorithm
+## 6. Spam filter for SMS messages
 We use the **naive Bayes algorithm** to build a spam filter for SMS messages.
 
-## 7. NBA Players
+## 7. Clustering NBA players
 We use the **K-means clustering** algorithm to explore patterns in a dataset of stats about NBA players.
